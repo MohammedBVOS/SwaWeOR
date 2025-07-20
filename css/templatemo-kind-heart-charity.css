@@ -219,8 +219,8 @@ strong {
 
 .custom-block-image {
   display: block;
-  width: 1000px;
-  height: 667px;
+  width: 1000;
+  height: 300;
   object-fit: cover;
 }
 
